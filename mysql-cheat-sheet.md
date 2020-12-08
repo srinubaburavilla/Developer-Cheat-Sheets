@@ -94,3 +94,13 @@ set @@FOREIGN_KEY_CHECKS=1
 SELECT @@GLOBAL.foreign_key_checks, @@SESSION.foreign_key_checks;
 
 ```
+
+### Useful links can refer
+#### [Cheat Sheet](https://www.mysqltutorial.org/mysql-cheat-sheet.aspx)
+#### [Cheat Sheet pdf](https://websitesetup.org/wp-content/uploads/2020/04/MySQL-Cheat-Sheet-websitesetup.org_.pdf)
+#### [An Intermediate MySQL Tutorial](https://www3.ntu.edu.sg/home/ehchua/programming/sql/MySQL_Intermediate.html)
+#### [mysql workbench](https://docs.oracle.com/cd/E19078-01/mysql/mysql-workbench/)
+#### [MySQL 8.0 Reference Manual - Go for search](https://dev.mysql.com/doc/refman/8.0/en)
+#### [SHOW Statements](https://dev.mysql.com/doc/refman/8.0/en/show.html)
+#### [Querying INFORMATION_SCHEMA table](https://dev.mysql.com/doc/refman/8.0/en/information-schema.html)
+
